@@ -1,0 +1,2 @@
+# Temperature-humidity-detection
+温湿度检测器运作在raspberry pi pico使用DHT11获取数据与SSD1306 OLED屏幕输出信息
